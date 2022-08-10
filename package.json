@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "Express": "^3.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
